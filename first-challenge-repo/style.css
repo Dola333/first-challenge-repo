@@ -85,3 +85,93 @@
 .foot-info > a {
     color:#BDBDBD;
 }
+
+
+@media screen and (max-width:375px) {
+
+    .container {
+        display: flex;
+        flex-direction: column;
+        column-gap: 5px;
+    }
+
+    .con-info > img {
+        width: 286.83px;
+        height: 238px;
+        padding-top: 109px;
+        padding-left: 44px;
+    }
+
+    .heading {
+        width: 133px;
+        height: 25px;
+        padding-top: 20px;
+        padding-left: 24px;
+    }
+
+   .info-head {
+    width: 350px;
+    height: 122px;
+    padding-top: 0px;
+    padding-left: 24px;
+    font-size: 40px;
+    word-spacing: 22px;
+   }
+
+   .con-info {
+    margin-bottom: 0px;
+    padding-right: 40px;
+    
+   }
+
+   .con2-info {
+    padding-top: 5px;
+   }
+
+   .info-para {
+    width: 328px;
+    height: 81px;
+    padding-left: 23px;
+    font-size: 18px;
+    line-height: 26.66px;
+    padding-top: 45px;
+   }
+
+   .info-button {
+    width: 216px;
+    height: 68px;
+    margin-left: 24px;
+    font-size: 14px;
+   }
+
+   
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
